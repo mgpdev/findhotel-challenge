@@ -1,0 +1,318 @@
+[
+  {
+    "title": "Room Queen",
+    "hotel": {
+      "name": "Quentin Amsterdam Hotel"
+    },
+    "starRating": 4,
+    "guestRating": 7.9,
+    "distanceCityCenter": 2.1,
+    "address": {
+      "street": "Frederiksplein 1",
+      "number": "100",
+      "city": "Amsterdam",
+      "state": "",
+      "country": "nl",
+      "location": {
+        "lat": 52.35861,
+        "long": 4.903666
+      }
+    },
+    "tags": [
+      "Amazing SPA",
+      "Good food",
+      "Great location",
+      "Central Location",
+      "Very clean"
+    ],
+    "gallery": [
+      {
+        "type": "image",
+        "source": "https://dummyimage.com/600x400/cacaca/000"
+      }
+    ],
+    "betterOption": {
+      "origin": "Booking.com",
+      "currencySign": "€",
+      "priceFrom": 115,
+      "price": 104.25,
+      "link": "https://www.booking.com"
+    },
+    "options": [
+      {
+        "origin": "Priceline.com",
+        "currencySign": "€",
+        "priceFrom": 122,
+        "price": 120.1,
+        "link": "https://www.booking.com"
+      },
+      {
+        "origin": "Expedia.nl",
+        "currencySign": "€",
+        "priceFrom": 135,
+        "price": 132.5,
+        "link": "https://www.booking.com"
+      },
+      {
+        "origin": "7ideas.com",
+        "currencySign": "€",
+        "priceFrom": 140,
+        "price": 139,
+        "link": "https://www.booking.com"
+      }
+    ]
+  },
+  {
+    "title": "Room Amsterdam",
+    "hotel": {
+      "name": "Mana Mana Hotel"
+    },
+    "starRating": 5,
+    "guestRating": 6.5,
+    "distanceCityCenter": 5,
+    "address": {
+      "street": "Frederiksplein 1",
+      "number": "100",
+      "city": "Amsterdam",
+      "state": "",
+      "country": "nl",
+      "location": {
+        "lat": 52.35498,
+        "long": 4.890256
+      }
+    },
+    "tags": [
+      "Great location",
+      "Perfect WiFi",
+      "Central Location",
+      "24 hour reception",
+      "Very clean"
+    ],
+    "gallery": [
+      {
+        "type": "image",
+        "source": "https://dummyimage.com/600x400/cacaca/000"
+      }
+    ],
+    "betterOption": {
+      "origin": "Priceline.com",
+      "currencySign": "€",
+      "priceFrom": 145,
+      "price": 120.1,
+      "link": "https://www.booking.com"
+    },
+    "options": [
+      {
+        "origin": "Booking.com",
+        "currencySign": "€",
+        "priceFrom": 148.86,
+        "price": 121.1,
+        "link": "https://www.booking.com"
+      },
+      {
+        "origin": "Expedia.nl",
+        "currencySign": "€",
+        "priceFrom": 151,
+        "price": 132.5,
+        "link": "https://www.booking.com"
+      },
+      {
+        "origin": "7ideas.com",
+        "currencySign": "€",
+        "priceFrom": 155.5,
+        "price": 139,
+        "link": "https://www.booking.com"
+      }
+    ]
+  },
+  {
+    "title": "Room Yellow",
+    "hotel": {
+      "name": "Stars Hotel"
+    },
+    "starRating": 5,
+    "guestRating": 8,
+    "distanceCityCenter": 1,
+    "address": {
+      "street": "Frederiksplein 1",
+      "number": "100",
+      "city": "Amsterdam",
+      "state": "",
+      "country": "nl",
+      "location": {
+        "lat": 52.351028,
+        "long": 4.893228
+      }
+    },
+    "tags": [
+      "Good food",
+      "Family friendly",
+      "Great location",
+      "24 hour reception",
+      "Very clean"
+    ],
+    "gallery": [
+      {
+        "type": "image",
+        "source": "https://dummyimage.com/600x400/cacaca/000"
+      }
+    ],
+    "betterOption": {
+      "origin": "Expedia.com",
+      "currencySign": "€",
+      "priceFrom": 189,
+      "price": 174.2,
+      "link": "https://www.booking.com"
+    },
+    "options": [
+      {
+        "origin": "Priceline.com",
+        "currencySign": "€",
+        "priceFrom": 198.5,
+        "price": 180.1,
+        "link": "https://www.booking.com"
+      },
+      {
+        "origin": "Booking.nl",
+        "currencySign": "€",
+        "priceFrom": 199,
+        "price": 182.5,
+        "link": "https://www.booking.com"
+      },
+      {
+        "origin": "7ideas.com",
+        "currencySign": "€",
+        "priceFrom": 199,
+        "price": 191.5,
+        "link": "https://www.booking.com"
+      }
+    ]
+  },
+  {
+    "title": "Room Magna",
+    "hotel": {
+      "name": "Plaza Amsterdam Hotel"
+    },
+    "starRating": 3,
+    "guestRating": 7,
+    "distanceCityCenter": 10,
+    "address": {
+      "street": "Frederiksplein 1",
+      "number": "100",
+      "city": "Amsterdam",
+      "state": "",
+      "country": "nl",
+      "location": {
+        "lat": 52.373646,
+        "long": 4.8905
+      }
+    },
+    "tags": [
+      "Amazing SPA",
+      "Good food",
+      "Central Location",
+      "24 hour reception",
+      "Greate restaurant"
+    ],
+    "gallery": [
+      {
+        "type": "image",
+        "source": "https://dummyimage.com/600x400/cacaca/000"
+      }
+    ],
+    "betterOption": {
+      "origin": "Booking.com",
+      "currencySign": "€",
+      "priceFrom": 215,
+      "price": 200,
+      "link": "https://www.booking.com"
+    },
+    "options": [
+      {
+        "origin": "Priceline.com",
+        "currencySign": "€",
+        "priceFrom": 221,
+        "price": 210.1,
+        "link": "https://www.booking.com"
+      },
+      {
+        "origin": "Expedia.nl",
+        "currencySign": "€",
+        "priceFrom": 223.35,
+        "price": 220.5,
+        "link": "https://www.booking.com"
+      },
+      {
+        "origin": "7ideas.com",
+        "currencySign": "€",
+        "priceFrom": 250.1,
+        "price": 230,
+        "link": "https://www.booking.com"
+      }
+    ]
+  },
+  {
+    "title": "Room Sixhaven",
+    "hotel": {
+      "name": "Hotel Isis"
+    },
+    "starRating": 3,
+    "guestRating": 6.8,
+    "distanceCityCenter": 4.5,
+    "address": {
+      "street": "Frederiksplein 1",
+      "number": "100",
+      "city": "Amsterdam",
+      "state": "",
+      "country": "nl",
+      "location": {
+        "lat": 52.382854,
+        "long": 4.907743
+      }
+    },
+    "tags": [
+      "Good food",
+      "Great location",
+      "Perfect WiFi",
+      "Central Location",
+      "24 hour reception",
+      "Very clean"
+    ],
+    "gallery": [
+      {
+        "type": "image",
+        "source": "https://dummyimage.com/600x400/cacaca/000"
+      }
+    ],
+    "betterOption": {
+      "origin": "7ideas.com",
+      "currencySign": "€",
+      "priceFrom": 325,
+      "price": 280.5,
+      "link": "https://www.booking.com"
+    },
+    "options": [
+      {
+        "origin": "Priceline.com",
+        "currencySign": "€",
+        "priceFrom": 326.8,
+        "price": 320.1,
+        "link": "https://www.booking.com"
+      },
+      {
+        "origin": "Expedia.nl",
+        "currencySign": "€",
+        "priceFrom": 345,
+        "price": 332.5,
+        "link": "https://www.booking.com"
+      },
+      {
+        "origin": "Booking.com",
+        "currencySign": "€",
+        "priceFrom": 358,
+        "price": 335,
+        "link": "https://www.booking.com"
+      }
+    ]
+  }
+]
